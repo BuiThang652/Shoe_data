@@ -1,12 +1,13 @@
 {
-    "orders": [
+    "orders": 
+    [
       {
         "id": 9128912058,
         "fullName": "Trần Văn Đức",
         "valuePhone": "0365998745",
         "valueEmail": "duc@gmail.com",
         "shipAddress": "333 Nghĩa Đô, Phường Mông Dương, Tỉnh Quảng Ninh, Thành phố Cẩm Phả",
-        "dateTime": "22-6-2023 23:3:17",
+        "dateTime": "23-6-2023 13:20:5",
         "products": [
           {
             "id": 5,
@@ -15,6 +16,32 @@
             "soLuong": 4,
             "thumb": "5.jpg",
             "status": "block--list--stock"
+          }
+        ]
+      },
+      {
+        "id": 4887907957,
+        "fullName": "Bùi Đức Thắng",
+        "valuePhone": "0393232697",
+        "valueEmail": "buiducthang652@gmail.com",
+        "shipAddress": "Nguyên Xá, Phường Minh Khai, Thành phố Hà Nội, Quận Bắc Từ Liêm",
+        "dateTime": "23-6-2023 13:26:9",
+        "products": [
+          {
+            "id": 5,
+            "name": "Sản phẩm 5",
+            "price": 10000,
+            "soLuong": 1,
+            "thumb": "5.jpg",
+            "status": "block--list--stock"
+          },
+          {
+            "id": 2,
+            "name": "Sản phẩm 2",
+            "price": 10000,
+            "soLuong": 2,
+            "thumb": "2.jpg",
+            "status": "d--none"
           }
         ]
       }
